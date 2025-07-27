@@ -61,4 +61,4 @@ The dataset (`data/fake_news_dataset.csv`) contains news articles labeled as rea
 
 ## Contributing
 
-Contributions are welcome! Please open issues or submit pull requests for improvements.
+Contributions are welcome! Please open issues or submit pull requests for improvements.# Fake_news
